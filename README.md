@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kingott
-- 👀 I’m interested in turning data into information that can guide decision making.
+- 👀 I’m interested in turning data into insights that can guide decision making.
 - 🌱 I’m currently learning Machine Learning, Python and SQL.
 - 💞️ I’m looking to collaborate on ... always willing to listen.
-- 📫 How to reach me ... 
 
 <!---
 kingott/kingott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
